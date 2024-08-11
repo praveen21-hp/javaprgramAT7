@@ -1,6 +1,6 @@
 package ex_21072024forloop;
 
-public class lab122 {
+public class lab122redothisprogram {
     public static void main(String[] args) {
         // Functions
         // Block of code which we can reuse.
