@@ -1,6 +1,6 @@
 package ex_21072024forloop;
 
-public class lab121 {
+public class lab121callthefunction {
     public static void main(String[] args) {
         // two component of the function
         // 1] define
